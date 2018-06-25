@@ -19,10 +19,12 @@ git merge [BRANCH_NAME]
 ### List existing branches
 ```
 git branch --list
+```
 
 ### Delete an existing branch
 ```
 git branch -d [BRANCH_NAME]
+```
 
 ## Repo URL
 
@@ -34,5 +36,8 @@ git remote -v
 ### Change remote URL
 ```
 git remote set-url origin [NEW_URL]
+```
+
+
 
 
